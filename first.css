@@ -1,0 +1,50 @@
+body{
+background-image: url(front.jpg);
+background-repeat:no-repeat;
+background-size:cover;
+}
+h3{
+	text-align:left,center;
+	color:FFD700;
+}
+p{
+
+	color:lightorange;
+	font-style:italic;
+	font-weight:bold;
+	text-align:left;
+}
+li{
+	list-style:bold;
+	display:inline-block;
+	color:white; 
+}
+ul{
+	
+	text-align:center;
+	
+}
+.jumbotron{
+	background:none;
+
+}
+.jumbotron h1{
+	color:red;
+	
+}
+.jumbotron p{
+	color:black;
+	font-weight:bold
+}
+
+.nav-pills >li >a.active{
+	background-color:violet;
+}
+.nav-pills {
+	background-color:white;
+	background:none:
+}
+
+video{
+	padding:30px;
+}
